@@ -1,0 +1,43 @@
+$ git config --global user.name "username"
+
+
+$ git config --global user.email "mailid@gmail.com"
+
+
+ls -l  ( list of files in folder )
+
+ls -latr ( for hidden files in folder )
+
+
+git init    ( for creating a git local repo in our system)
+
+
+touch command is used to create files using linux
+
+ex: touch a.txt b.py 
+
+
+git status ( for status of files in path)
+
+
+git add filename ( for moving file to staging step)
+
+git add . ( for moving all files to staging step)
+
+
+rm filename ( for removing file from staging area)
+
+git commit -m "this is my first commit"
+
+
+git log ( for getting logs of our changes)
+
+
+
+https://github.com/Srikanthlearningdevops/Devops.git
+
+
+
+
+
+
